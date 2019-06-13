@@ -1,0 +1,12 @@
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\bin\Release\netstandard2.0\protocol.json
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\bin\Release\netstandard2.0\P2PLossyConsensus.deps.json
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\bin\Release\netstandard2.0\P2PLossyConsensus.dll
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\bin\Release\netstandard2.0\P2PLossyConsensus.pdb
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\bin\Release\netstandard2.0\Neo.dll
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\obj\Release\netstandard2.0\P2PLossyConsensus.csprojAssemblyReference.cache
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\obj\Release\netstandard2.0\P2PLossyConsensus.csproj.CoreCompileInputs.cache
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\obj\Release\netstandard2.0\P2PLossyConsensus.AssemblyInfoInputs.cache
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\obj\Release\netstandard2.0\P2PLossyConsensus.AssemblyInfo.cs
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\obj\Release\netstandard2.0\P2PLossyConsensus.csproj.CopyComplete
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\obj\Release\netstandard2.0\P2PLossyConsensus.dll
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\obj\Release\netstandard2.0\P2PLossyConsensus.pdb

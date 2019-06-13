@@ -1,0 +1,6 @@
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\bin\Debug\netstandard2.0\P2PLossyConsensusPlugin.deps.json
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\bin\Debug\netstandard2.0\P2PLossyConsensusPlugin.dll
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\obj\Debug\netstandard2.0\P2PLossyConsensusPlugin.csprojAssemblyReference.cache
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\obj\Debug\netstandard2.0\P2PLossyConsensusPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\obj\Debug\netstandard2.0\P2PLossyConsensusPlugin.AssemblyInfoInputs.cache
+C:\Users\Qrz\source\repos\P2PLossyConsensus\P2PLossyConsensus\obj\Debug\netstandard2.0\P2PLossyConsensusPlugin.AssemblyInfo.cs
